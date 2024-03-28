@@ -1,4 +1,4 @@
-# Tableau Visualizations: Superstore Sales, Training Analysis, and Cost Analysis
+# Power BI Dashboards: Superstore Sales, Training Analysis, and Cost Analysis
 
 ## Report 1: Superstore Sales Summary
 - Monthly, quarterly, and yearly sales trends of the Superstore.
@@ -6,7 +6,7 @@
 - State-wise average shipping days analysis.
 - Yearly region-wise sales distribution of the Superstore.
 
-## Report 2: Training Analysis Report
+## Report 2: Training Analysis
 - Number of students under each department head.
 - Training completion rates of students.
 - Number of students sponsored by the company.
@@ -19,5 +19,11 @@
 - Total costs incurred by the company and payments made by self-sponsored students for each module.
 
 ## Conclusion
-These Tableau visualizations provide comprehensive insights into Superstore sales, training analysis, and cost analysis. Stakeholders can leverage this information to optimize sales strategies, improve training programs, and manage costs effectively.
+These Power BI dashboards provide comprehensive insights into Superstore sales, training analysis, and cost analysis. Stakeholders can leverage this information to optimize sales strategies, improve training programs, and manage costs effectively.
 
+## Contributors
+- John Doe
+- Jane Smith
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

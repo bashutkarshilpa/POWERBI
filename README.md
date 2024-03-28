@@ -21,9 +21,3 @@
 ## Conclusion
 These Power BI dashboards provide comprehensive insights into Superstore sales, training analysis, and cost analysis. Stakeholders can leverage this information to optimize sales strategies, improve training programs, and manage costs effectively.
 
-## Contributors
-- John Doe
-- Jane Smith
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
